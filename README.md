@@ -1,2 +1,2 @@
 # n-gram-analysis
-Stuff for bigram and trigram analysis with Tidy Text in R.
+Stuff for bigram and trigram analysis with tidytext in R.
